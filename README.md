@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Accenture & Digital House
-- 🌱 I’m currently learning AWS
+- 🔭 I’m currently working at Shipnow & Digital House
+- 🌱 I’m AWS Cloud Practitioner Essentials (soon Arquitect)
 - 💬 Ask me about everything and nothing
-- ⚡ Fun fact: Sports
+- ⚡ Fun fact: Soccer, Boxing, Bike
